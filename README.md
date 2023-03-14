@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Animacoes" title="#Animacoes" src=".images/header.png" width="100%" />
-</h1>
-
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
 <h4 align="center"> 
