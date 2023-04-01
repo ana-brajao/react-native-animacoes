@@ -1,7 +1,7 @@
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
 <h4 align="center"> 
-	AluraMed
+	Med
 </h4>
 
 <p align="center">
@@ -10,11 +10,11 @@
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :information_source: O que é o AluraMed?
+## :information_source: O que é o Med?
 
-O AluraMed é uma aplicação feita em React Native que simula um aplicativo de consultas médicas. A ideia é usar animações nesse projeto para tornar a aplicação mais agradável e intuitiva.
+O Med é uma aplicação feita em React Native que simula um aplicativo de consultas médicas. A ideia é usar animações nesse projeto para tornar a aplicação mais agradável e intuitiva.
 
-Esse projeto é utilizado na formação base de React Native da plataforma da Alura.
+Esse projeto é utilizado na formação base de React Native da plataforma da empresa Med.
 
 
 <h1 align="center">
@@ -50,13 +50,12 @@ $ npm install
 ### Executar o Mobile
 
 ```bash
-# Execute em outro terminal (dentro da pasta AluraMed)
+# Execute em outro terminal (dentro da pasta Med)
 $ expo start
 ```
 
-
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
+Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn
+:wave: 
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
