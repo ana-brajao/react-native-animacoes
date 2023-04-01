@@ -4,7 +4,7 @@ E você pode estar se perguntando: “para que eu devo utilizar animações?”,
 
 Saiba que as animações são uma excelente forma de interação com o usuário, tanto para indicar uma determinada ação que ele deve fazer em nosso aplicativo, quanto, também, fornecer um feedback caso algo esteja carregando.
 
-Mas o que vamos fazer especificamente nesse curso? Esse é o AluraMed, ele é o aplicativo de consultas médicas que vamos utilizar como projeto nesse curso. A ideia é aplicar diversas animações em determinadas áreas, determinadas telas e componentes desse aplicativo.
+Mas o que vamos fazer especificamente nesse curso? Esse é o Med, ele é o aplicativo de consultas médicas que vamos utilizar como projeto nesse curso. A ideia é aplicar diversas animações em determinadas áreas, determinadas telas e componentes desse aplicativo.
 
 Uma das animações que vamos fazer é o Carrossel. Perceba que algumas imagens estão sendo exibidas na tela principal automaticamente e em loop, então isso já dá uma animação para o nosso aplicativo e o deixa muito mais vivo que um aplicativo estático.
 
